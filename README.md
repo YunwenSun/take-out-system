@@ -9,7 +9,7 @@ As winter is coming, it will be harder and harder for students to step out of th
 2.	Communicate with restaurant and check the meal status
 3.	Communicate with deliver staff and check the deliver status
 
-### restaurants:
+### For restaurants:
 1.	Receive/update/cancel orders and prepare meals
 2.	Communicate with customers and delivery meal status
 
